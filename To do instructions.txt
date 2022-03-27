@@ -1,0 +1,7 @@
+Créer un projet TodoList dans ton espace github et réaliser les différentes fonctionnalités 
+
+    Ajouter le projet et l'initialiser dans github.
+    Ajouter un formulaire dans la page d'accueil (index.html) avec un champs input type texte et un bouton de soumission.
+    Côté javascript, récupérer la valeur qui a été saisie dans ce champs lorsque le formulaire est soumis (bouton de soumission cliqué)
+    Ajouter automatiquement au document HTML un nouvel élément (li, p ou div) qui contient le texte qui a été saisi dans le champs par l'utilisateur
+    Cet élément devra également contenir un petit bouton "supprimer". Au clic sur ce bouton, l'élément disparaîtra du document HTML.
