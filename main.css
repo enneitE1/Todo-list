@@ -8,7 +8,7 @@ body{
 	width: 250px;
 }
 #bouton{
-	width: 40px;
+	width: 50px;
 	height: 20px;
 	margin-top: 20px;
 	border-radius: 5px;
@@ -29,7 +29,11 @@ body{
 #listeUL{
 	list-style-type: none;
 }
+
 .bouton_supprimer{
 	height: 20px;
 	margin-left:20px;
+	background-color: greenyellow;
+	border: none;
+	margin-top: 20px;
 }
