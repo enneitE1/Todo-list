@@ -28,6 +28,9 @@ body{
 }
 #listeUL{
 	list-style-type: none;
+	display: flex;
+	flex-direction: column;
+	align-items: end;
 }
 
 .bouton_supprimer{
